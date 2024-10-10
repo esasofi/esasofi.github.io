@@ -28,11 +28,12 @@
 title: esasofi
 description: esasofi online CV
 baseurl: ""
-url: https://example.com
+url: https://esasofi.github.io/
 
 theme: cvless
 
 exclude:
+  - docker-compose.yml
   - demo/
   - cvless.gemspec
   - LICENSE
