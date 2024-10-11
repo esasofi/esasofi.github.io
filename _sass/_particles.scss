@@ -45,6 +45,11 @@
     background-size: 15%;
   }
 }
+@media (min-width: 2560px) {
+  #particles-js {
+    background-size: 14%;
+  }
+}
 #bgvid {
   object-fit: contain;
   width: 100%;
