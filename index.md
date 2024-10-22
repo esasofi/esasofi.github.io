@@ -5,13 +5,12 @@ title: Home
 
 # About
 
-Sofia Malacalza, known as EsaSofi, is a dynamic visual artist and creative researcher born in Buenos Aires and based in Amsterdam and Barcelona. 
+Sofía Malacalza, also known as EsaSofi, is a creative researcher and visual artist, born in Buenos Aires and based in Amsterdam and Barcelona. With studies in photography at the Escola Fotoespai in Barcelona and at the Royal Academy of Fine Arts in The Hague, she explores the boundaries of digital art, combining her photographic vision with the technique of video projection to create unique visual experiences. Her practices include VJing, Live Performance, videomapping, set design, digital photography, and installations.
 
-Over the past decade, she has been exploring the boundaries of digital art, blending her strong foundation in photography with digital collage and generative art to create captivating visual experiences. Her diverse practice includes VJing, live performances, video mapping, stage design, digital photography, and installations, all infused with her unique sensitivity to color and form.
+Through the DiCEM Master's program at UPF in Barcelona, Sofia gained academic knowledge to conduct research projects. In her thesis, 'Sound Collage,' a collaborative project, she combines academic research with techniques of videomapping and audiovisual collage.
 
-Sofia's real-time video manipulation invites audiences on a journey through enchanting digital landscapes, where an eclectic mix of styles comes to life. Passionate about micro video mapping, she use this innovative medium to convey complex narratives and foster knowledge exchange. A significant focus of her research is on gender diversity in the arts and technical roles, driving her to create collaborative projects that amplify underrepresented voices. 
-
-Through her work, Sofia seeks to engage the senses and promote inclusivity, contributing meaningfully to the contemporary art scene. Discover the vibrant world of EsaSofi, where art meets advocacy and creativity knows no bounds.
+For Sofia, the audiovisual dissemination of academic research makes knowledge more accessible. She considers videomapping to be an innovative medium that can convey complex narratives. Passionate about collaborative artistic projects, her focus is on gender diversity in the arts and technical roles. 
+Through her work, Sofia seeks to engage the senses, promoting inclusivity and collective work.
 
 <video controls playsinline width="100%" poster="video/esasofi2.jpg">
   <source src="video/021024ReelH264.webm" type="video/webm" />
