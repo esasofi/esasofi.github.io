@@ -1,10 +1,9 @@
 #particles-js {
+  width: 100%;
   background-repeat: no-repeat;
-  background-size: 60%;
-  background-attachment: scroll;
+  background-size: cover;
+  background-attachment: fixed;
   background-color: black;
-  background-image: url(/esasofi.jpg);
-  background-position-x:center;
 
   .particles-js-canvas-el {
     width: 0;
@@ -20,36 +19,14 @@
     pointer-events: none;
   }
 }
-@media (min-width: 576px) {
-  #particles-js {
-    background-size: 50%;
-  }
+
+.body404 {
+  background-repeat: no-repeat;
+  background-image: url(https://esasofi.com/esasofi.jpg);
+  background-position-x: center!important;
+  background-size: contain!important;
 }
-@media (min-width: 768px) {
-  #particles-js {
-    background-size: 40%;
-  }
-}
-@media (min-width: 992px) {
-  #particles-js {
-    background-size: 29%;
-  }
-}
-@media (min-width: 1400px) {
-  #particles-js {
-    background-size: 20%;
-  }
-}
-@media (min-width: 2200px) {
-  #particles-js {
-    background-size: 15%;
-  }
-}
-@media (min-width: 2560px) {
-  #particles-js {
-    background-size: 14%;
-  }
-}
+
 #bgvid {
   object-fit: contain;
   width: 100%;

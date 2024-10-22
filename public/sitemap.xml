@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://esasofi.com//cv.html</loc>
+<loc>http://localhost:4000/cv.html</loc>
 </url>
 <url>
-<loc>https://esasofi.com//</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>https://esasofi.com//soficv2024.pdf</loc>
+<loc>http://localhost:4000/soficv2024.pdf</loc>
 <lastmod>2024-10-11T01:47:52+02:00</lastmod>
 </url>
 </urlset>

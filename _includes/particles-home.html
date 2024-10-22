@@ -2,10 +2,11 @@
 <video playsinline autoplay muted id="bgvid">
   <source src="esasofi.webm" type="video/webm">
   <source src="esasofi.mp4" type="video/mp4">
+  <img src="esasofi.jpg"  width="430" height="932" alt="">
 </video>
   <div class="jumbotron text-center">
     {% if site.photo %}
-    <img class="particles-photo" src="{{ site.photo }}" />
+    <img class="particles-photo" src="{{ site.photo }}" alt="" />
     {% endif %}
     <h1 class="particles-title">{{ site.title }}</h1>
     <h1 class="particles-subtitle">{{ site.taglong }}</h1>
