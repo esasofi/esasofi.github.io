@@ -35,8 +35,8 @@ sass:
   sourcemap: never
 
 # site settings
-taglong:
-tagshort:
+tag404: Page not found
+tagshort: 404
 
 # author settings
 author:

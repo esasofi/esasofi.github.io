@@ -59,6 +59,12 @@
   color: black!important;
 }
 
+.particles-subtitle {
+  margin: 1em 0;
+  font-size: 1.25em;
+  font-weight: 400;
+}
+
 .nowrap {
   white-space: nowrap;
 }
@@ -112,4 +118,8 @@
   color: var(--bs-btn-hover-color);
   background-color: var(--bs-btn-hover-bg);
   border-color: var(--bs-btn-hover-border-color);
+}
+
+main h2 {
+  font-size: 2rem;
 }
