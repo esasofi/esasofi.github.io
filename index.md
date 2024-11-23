@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# About
+## About
 
 Sofía Malacalza, also known as EsaSofi, is a creative researcher and visual artist, born in Buenos Aires and based in Amsterdam and Barcelona. With studies in photography at the Escola Fotoespai in Barcelona and at the Royal Academy of Fine Arts in The Hague, she explores the boundaries of digital art, combining her photographic vision with the technique of video projection to create unique visual experiences. Her practices include VJing, Live Performance, videomapping, set design, digital photography, and installations.
 

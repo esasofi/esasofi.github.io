@@ -18,27 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# build settings
-# permalink: pretty
-# exclude:
-#   - docker-compose.yml
-#   - LICENSE
-#   - README.md
-
 title: esasofi
 description: esasofi online CV
 baseurl: ""
 url: https://esasofi.com/
 
 theme: cvless
-
-exclude:
-  - docker-compose.yml
-  - demo/
-  - cvless.gemspec
-  - LICENSE
-  - README.md
-  - screenshot.png
 
 plugins:
   - jekyll-gist
@@ -50,8 +35,8 @@ sass:
   sourcemap: never
 
 # site settings
-taglong: 
-tagshort: 
+taglong:
+tagshort:
 
 # author settings
 author:
@@ -65,7 +50,7 @@ social:
   pixelfed: EsaSofi
 
 # Build settings
-
+permalink: pretty
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -74,7 +59,6 @@ social:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-#
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -86,6 +70,12 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - docker-compose.yml
+  - demo/
+  - cvless.gemspec
+  - screenshot.png
+  - LICENSE
+  - README.md
 
 #feed:
 #  path: atom.xml
